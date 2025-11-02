@@ -63,29 +63,7 @@ The goal of this project is to process large-scale, structured and semi-structur
 4. **Data Visualization**:
    - Data from **AWS Athena** is then connected to **Power BI** to create **interactive dashboards**. The dashboards provide insights into the **engagement** and **viewership** trends for YouTube videos across regions and categories.
 
----
 
-## Folder Structure
-/YouTube_Data_Engineering_Project
-│
-├── /data
-│ ├── youtube_visualization_data.csv # Aggregated data (CSV format)
-│ ├── youtube_visualization_data.parquet # Aggregated data (Parquet format)
-│ ├── CA_category_id.json # YouTube category data for Canada
-│ ├── DE_category_id.json # YouTube category data for Germany
-│ ├── (Other category JSON files)
-│
-├── /scripts
-│ ├── lambda_function.py # AWS Lambda function for data cleaning
-│ ├── pyspark_code.py # AWS Glue ETL script for data processing
-│
-├── /images
-│ └── architecture_diagram.png # Architecture diagram of the pipeline
-│
-└── README.md # Project details and setup instructions
-
-
----
 
 ## Instructions
 
@@ -118,7 +96,7 @@ This project demonstrates the full scope of working with cloud-based data engine
 
 ---
 
-### **Key Takeaways for Recruiters**:
+### **Key Takeaways **:
 - **Data Engineering**: Showcased skills in **AWS Lambda**, **Glue**, **Athena**, and **S3** for cloud-based data processing and storage.
 - **Data Analysis**: Used **Power BI** to create interactive dashboards that offer **insights** into **video engagement** and **viewership** trends across regions.
 - **Cloud Integration**: Demonstrated the ability to integrate AWS services with data visualization tools to provide actionable business insights.
