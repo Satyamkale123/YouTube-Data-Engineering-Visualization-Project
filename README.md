@@ -16,7 +16,7 @@ The goal of this project is to process large-scale, structured and semi-structur
 
 ## Architecture Diagram
 
-![Architecture Diagram](architecture_diagram.png)
+![Architecture Diagram](architecture.jpeg)
 
 ### **Key Components:**
 - **Data Ingestion**: YouTube dataset from Kaggle, uploaded to AWS **S3** (raw layer).
