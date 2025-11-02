@@ -84,9 +84,10 @@ The goal of this project is to process large-scale, structured and semi-structur
 
 ## Dashboard Link
 
-- **Link to Power BI Dashboard** (if published to Power BI Service or shared online):
+- **Power BI Dashboard** :
+ 
+  ![Power BI YouTube Dashboard](YT_Dashboard.png)
   
-  [Power BI YouTube Dashboard](link_to_dashboard)
 
 ---
 
